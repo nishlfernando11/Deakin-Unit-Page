@@ -33,6 +33,6 @@ tr:nth-child(odd) {
 
 /* Styles for the header and logo */
 div {
-  background-color: darkcyan;
+  background-color: blue;
   text-align: right;
-}
+  }
